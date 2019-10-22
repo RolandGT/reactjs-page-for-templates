@@ -1,0 +1,8 @@
+.cat{
+    font-family: 'Gotham-Book', sans-serif;
+    text-transform: uppercase;
+}
+.cat-active{
+    font-family: 'Gotham-Black', sans-serif;
+    text-transform: uppercase;
+}
